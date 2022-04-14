@@ -1,0 +1,9 @@
+Aggiunta metodo per analizzare nome file in base all'input, sempre seguendo i formati di data con Y-M-D ma personalizzando la posizione.
+
+Ad esempio il file si chiama 02252022-boh.jpg
+sarebbe 25 02 2022
+
+L'input potrebbe essere MMDDYYYYxxx
+
+oppure 2502-img-2022.jpg ovvero 25 02 2022
+l'input potrebbe essere DDMMxxxxxYYYY
